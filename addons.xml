@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
 <addon
   id="plugin.video.SportsDevil"
   version="1.8.6"
@@ -19,11 +20,11 @@
     <platform>all</platform>
   </extension>
 </addon>
-<addon id="repository.SportsDevil" name="SportsDevil add-on" version="1.0.0" provider-name="Al101">
+<addon id="repository.SportsDevil" name="SportsDevil repository" version="1.0.0" provider-name="Al101">
 	<extension point="xbmc.addon.repository" name="SportsDevil add-on repository">
 		<info compressed="false">http://github.com/al101/repository.SportsDevil/raw/master/addons.xml</info>
 		<checksum>http://github.com/al101/repository.SportsDevil/raw/master/addons.xml.md5</checksum>
-		<datadir zip="true">http://github.com/al101/repository.SportsDevil/raw/master/</datadir>
+		<datadir zip="true">http://github.com/al101/repository.SportsDevil/raw/master/plugin.video.SportsDevil</.datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install Unofficial SportsDevil add-on</summary>
@@ -32,3 +33,4 @@
 		<platform>all</platform>
 	</extension>
 </addon>
+</addons>
