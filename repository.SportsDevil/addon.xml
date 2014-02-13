@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.SportsDevil" name="SportsDevil add-on" version="1.0.0" provider-name="Al101">
+	<extension point="xbmc.addon.repository" name="SportsDevil add-on repository">
+		<info compressed="false">http://github.com/al101/repository.SportsDevil/raw/master/addons.xml</info>
+		<checksum>http://github.com/al101/repository.SportsDevil/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://github.com/al101/repository.SportsDevil/raw/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install Unofficial SportsDevil add-on</summary>
+		<description>Created by MaxMustermann maintained by XBMCHUB.COM community (enen92, jorges4lu2, gujal, sattekop)</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
