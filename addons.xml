@@ -27,7 +27,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install Unofficial SportsDevil add-on</summary>
-		<description>Created by MaxMustermann maintained by XBMCHUB.COM community (enen92, jorges4lu2, gujal, sattekop)</description>
+		<description>Created by MaxMustermann maintained by XBMCHUB.COM community (enen92, jorges4lu2)</description>
 		<disclaimer></disclaimer>
 		<platform>all</platform>
 	</extension>
